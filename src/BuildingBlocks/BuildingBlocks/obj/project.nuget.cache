@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "w1Dw44F7hIBBpQTftsJjW+2NzpZl43jn9f7Jr9s0z6E2AqzmKpo66Fdexfkz5M77Slnwe0nbN7gR8h0K45B3NA==",
+  "success": true,
+  "projectFilePath": "/Users/alagtari/RiderProjects/EshopMicroservices/src/BuildingBlocks/BuildingBlocks/BuildingBlocks.csproj",
+  "expectedPackageFiles": [
+    "/Users/alagtari/.nuget/packages/mapster/7.4.0/mapster.7.4.0.nupkg.sha512",
+    "/Users/alagtari/.nuget/packages/mapster.core/1.2.1/mapster.core.1.2.1.nupkg.sha512",
+    "/Users/alagtari/.nuget/packages/mediatr/12.4.0/mediatr.12.4.0.nupkg.sha512",
+    "/Users/alagtari/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/alagtari/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
