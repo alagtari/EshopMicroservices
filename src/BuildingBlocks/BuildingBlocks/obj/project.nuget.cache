@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "w1Dw44F7hIBBpQTftsJjW+2NzpZl43jn9f7Jr9s0z6E2AqzmKpo66Fdexfkz5M77Slnwe0nbN7gR8h0K45B3NA==",
+  "dgSpecHash": "Vzynfc+6SmHeum9xw2s6AMxOI9f9o+uJxflOtQLRPZiU5gbaaZFkXdNdi8nrIWSWD/uOK8MKN4ziMsMHscVCcw==",
   "success": true,
   "projectFilePath": "/Users/alagtari/RiderProjects/EshopMicroservices/src/BuildingBlocks/BuildingBlocks/BuildingBlocks.csproj",
   "expectedPackageFiles": [
+    "/Users/alagtari/.nuget/packages/fluentvalidation/11.9.2/fluentvalidation.11.9.2.nupkg.sha512",
+    "/Users/alagtari/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "/Users/alagtari/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.9.2/fluentvalidation.dependencyinjectionextensions.11.9.2.nupkg.sha512",
     "/Users/alagtari/.nuget/packages/mapster/7.4.0/mapster.7.4.0.nupkg.sha512",
     "/Users/alagtari/.nuget/packages/mapster.core/1.2.1/mapster.core.1.2.1.nupkg.sha512",
     "/Users/alagtari/.nuget/packages/mediatr/12.4.0/mediatr.12.4.0.nupkg.sha512",
