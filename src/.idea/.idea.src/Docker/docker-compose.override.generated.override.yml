@@ -1,0 +1,40 @@
+# This is a generated file. Not intended for manual editing.
+version: "3.4"
+services:
+  basket.api:
+    build:
+      context: "/Users/alagtari/RiderProjects/EshopMicroservices/src"
+      dockerfile: "Services/Basket/Basket.Api/Dockerfile"
+      target: "base"
+    command: []
+    entrypoint:
+    - "dotnet"
+    - "/app/bin/Debug/net8.0/Basket.Api.dll"
+    environment:
+      ASPNETCORE_ENVIRONMENT: "Development"
+      DOTNET_USE_POLLING_FILE_WATCHER: "true"
+    image: "basket.api:dev"
+    ports: []
+    volumes:
+    - "/Users/alagtari/.nuget/packages:/home/app/.nuget/packages"
+    - "/Users/alagtari/RiderProjects/EshopMicroservices/src/Services/Basket/Basket.Api:/app:rw"
+    - "/Users/alagtari/RiderProjects/EshopMicroservices/src:/src:rw"
+    working_dir: "/app"
+  catalog.api:
+    build:
+      context: "/Users/alagtari/RiderProjects/EshopMicroservices/src"
+      dockerfile: "Services/Catalog/Catalog.API/Dockerfile"
+      target: "base"
+    command: []
+    entrypoint:
+    - "dotnet"
+    - "/app/bin/Debug/net8.0/Catalog.API.dll"
+    environment:
+      DOTNET_USE_POLLING_FILE_WATCHER: "true"
+    image: "catalog.api:dev"
+    ports: []
+    volumes:
+    - "/Users/alagtari/.nuget/packages:/home/app/.nuget/packages"
+    - "/Users/alagtari/RiderProjects/EshopMicroservices/src/Services/Catalog/Catalog.API:/app:rw"
+    - "/Users/alagtari/RiderProjects/EshopMicroservices/src:/src:rw"
+    working_dir: "/app"
