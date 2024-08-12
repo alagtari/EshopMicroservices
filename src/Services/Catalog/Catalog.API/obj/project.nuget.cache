@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "A3bFPG/B7fEUlDhxpZ6g1xzF2+/y8Z12aLTpEx817aazoixHqfVqR2v61vMop7tEjai9tUYAE1cDiLapL7p2oQ==",
+  "dgSpecHash": "fWApsLDEDmI=",
   "success": true,
   "projectFilePath": "/Users/alagtari/RiderProjects/EshopMicroservices/src/Services/Catalog/Catalog.API/Catalog.API.csproj",
   "expectedPackageFiles": [

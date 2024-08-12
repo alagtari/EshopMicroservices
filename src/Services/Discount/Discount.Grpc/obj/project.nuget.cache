@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Fygw5FA+FPKSZ1HWyz0fbdGa9Sv8CkeCYiYtdLvXT+yPFPg3p5l3YKjI0ukh5pP0bWDk4czPSm23GJeY5WqhXA==",
+  "dgSpecHash": "P432KHsDCOs=",
   "success": true,
   "projectFilePath": "/Users/alagtari/RiderProjects/EshopMicroservices/src/Services/Discount/Discount.Grpc/Discount.Grpc.csproj",
   "expectedPackageFiles": [

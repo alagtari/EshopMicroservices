@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "levJ1O7/4Gx5hlgmuR2OyElQ+nG3zNL/GvMOKHwXNKuIdGIJqs7H6FbXRM5gSzkBFXpnX/iC20T1Rk94AGmtnQ==",
+  "dgSpecHash": "ImuY7d36rXg=",
   "success": true,
   "projectFilePath": "/Users/alagtari/RiderProjects/EshopMicroservices/src/Services/Basket/Basket.Api/Basket.Api.csproj",
   "expectedPackageFiles": [
