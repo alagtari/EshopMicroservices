@@ -1,6 +1,0 @@
-﻿services:
-  tuto:
-    image: tuto
-    build:
-      context: .
-      dockerfile: tuto/Dockerfile
